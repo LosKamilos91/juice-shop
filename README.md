@@ -1,2 +1,7 @@
-# juice-shop
-Mate acedemy project
+# Juice Shop
+Demo online juice shop
+
+#### Tested site:
+```
+https://demo.owasp-juice.shop/#/
+```
