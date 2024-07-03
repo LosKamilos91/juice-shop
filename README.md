@@ -21,9 +21,8 @@ https://docs.google.com/spreadsheets/d/13G6okOC0iPo1dRF22GSvhWaYWVq2ocVwi0OZSDSq
 https://docs.google.com/spreadsheets/d/1fHgEp69DU0veNnfR_LgOTJ_yAOObPdvEVD-TJXLo7sg
 ```
 
-## Test Cases & Bug Reports
+## Test Cases
 - Test Cases: [Google Sheet](https://docs.google.com/spreadsheets/d/1Ob1UvEDrhsvUKNSjlHmQ5_B97zNl6VfUvqxEdPODZUM/edit?usp=drive_link), [Excel](https://docs.google.com/spreadsheets/d/1ci1f9-CiSQd65cSstRrzt5ib0jjUuxL0/edit?usp=drive_link), [CSV](https://drive.google.com/file/d/18DL4Wx_VcwX6vIjxGSjRiShYWYnH8a17/view?usp=drive_link), [XML](https://drive.google.com/file/d/1thgOGD0SlRMRSULdDim9Jt9lg4vDRQA3/view?usp=drive_link)
-- Bug Reports: soon
 
 ### Test Runs & Results
 Soon
