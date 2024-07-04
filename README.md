@@ -1,5 +1,5 @@
 # Juice Shop
-A demo site for testing purposes where we have the opportunity to test the online shop.
+The website provides an online platform  for purchasing juice. This is a demonstration version intended for testing purposes.
 
 #### Tested site:
 ```
