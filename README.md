@@ -13,9 +13,14 @@ https://demo.owasp-juice.shop/
 https://docs.google.com/spreadsheets/d/1Sid3Mc_5O78AmyuGpgREXwUwRwnex-BF5fVa07cr6Yc
 ```
 
-#### Permission Testing
+#### Permission Testing - Web Application
 ```
 https://docs.google.com/spreadsheets/d/13G6okOC0iPo1dRF22GSvhWaYWVq2ocVwi0OZSDSqWzg
+```
+
+#### Decision Table - User Registration
+```
+https://docs.google.com/spreadsheets/d/1bMYM-XOn1g1WfVgP9pjBdobFZM0L24C9DyyocnP22Sg
 ```
 
 ## Manual Testing
