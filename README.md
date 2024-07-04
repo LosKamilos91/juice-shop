@@ -30,26 +30,26 @@ https://docs.google.com/spreadsheets/d/13G6okOC0iPo1dRF22GSvhWaYWVq2ocVwi0OZSDSq
   </tr>
 </table>
 
-### User Registration
-
-#### Test Cases
+### Test Cases
+User Registration:
 ```
-https://docs.google.com/spreadsheets/d/1eOMcAUgbJ3SrhtMQ9HCIdAhw3L6_Cgtv1-rUfrv7mL0/edit?usp=drive_link
-```
-#### Test Runs
-```
-https://docs.google.com/spreadsheets/d/1tnjt-eFNwCcnACCyL5IKrVPcpgUS894SXNmWGtfZau0/edit?usp=drive_link
+https://docs.google.com/spreadsheets/d/1eOMcAUgbJ3SrhtMQ9HCIdAhw3L6_Cgtv1-rUfrv7mL0
 ```
 
-### Customer Feedback
+Customer Feedback:
+```
+https://docs.google.com/spreadsheets/d/1Dm13UGKGai_wQ5zphfuQ6CVEpKR51qsypl0IlK_pPck
+```
 
-#### Test Cases
+### Test Runs
+User Registration:
 ```
-https://docs.google.com/spreadsheets/d/1Dm13UGKGai_wQ5zphfuQ6CVEpKR51qsypl0IlK_pPck/edit?usp=drive_link
+https://docs.google.com/spreadsheets/d/1tnjt-eFNwCcnACCyL5IKrVPcpgUS894SXNmWGtfZau0
 ```
-#### Test Runs
+
+Customer Feedback:
 ```
-https://docs.google.com/spreadsheets/d/1ssLntCU4BneS5117uz3_XD_vYN4J18fPsGJ_5vunFu8/edit?usp=drive_link
+https://docs.google.com/spreadsheets/d/1ssLntCU4BneS5117uz3_XD_vYN4J18fPsGJ_5vunFu8
 ```
 
 ## Bug Reports
