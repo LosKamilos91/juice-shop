@@ -6,48 +6,77 @@ A demo site for testing purposes where we have the opportunity to test the onlin
 https://demo.owasp-juice.shop/
 ```
 
-#### RTM
-```
-https://docs.google.com/spreadsheets/d/1Sid3Mc_5O78AmyuGpgREXwUwRwnex-BF5fVa07cr6Yc
-```
+<details>
+  <summary>RTM</summary>
+  
+  ```
+  https://docs.google.com/spreadsheets/d/1Sid3Mc_5O78AmyuGpgREXwUwRwnex-BF5fVa07cr6Yc
+  ```
+</details>
 
-#### Permission Testing
-```
-https://docs.google.com/spreadsheets/d/13G6okOC0iPo1dRF22GSvhWaYWVq2ocVwi0OZSDSqWzg
-```
+<details>
+  <summary>Permission Testing</summary>
+  
+  ```
+  https://docs.google.com/spreadsheets/d/13G6okOC0iPo1dRF22GSvhWaYWVq2ocVwi0OZSDSqWzg
+  ```
+</details>
 
-#### Test Reports
-```
-https://docs.google.com/spreadsheets/d/1fHgEp69DU0veNnfR_LgOTJ_yAOObPdvEVD-TJXLo7sg
-```
+<details>
+  <summary>Test Cases</summary>
 
-#### User Registration Page
+  #### User Registration
+  ```
+  https://docs.google.com/spreadsheets/d/1eOMcAUgbJ3SrhtMQ9HCIdAhw3L6_Cgtv1-rUfrv7mL0/edit?usp=drive_link
+  ```
 
+  #### Customer Feedback
+  ```
+  https://docs.google.com/spreadsheets/d/1Dm13UGKGai_wQ5zphfuQ6CVEpKR51qsypl0IlK_pPck/edit?usp=drive_link
+  ```
+</details>
+
+<details>
+  <summary>Test Runs</summary>
+
+  #### User Registration
+  ```
+  https://docs.google.com/spreadsheets/d/1tnjt-eFNwCcnACCyL5IKrVPcpgUS894SXNmWGtfZau0/edit?usp=drive_link
+  ```
+
+  #### Customer Feedback
+  ```
+  https://docs.google.com/spreadsheets/d/1ssLntCU4BneS5117uz3_XD_vYN4J18fPsGJ_5vunFu8/edit?usp=drive_link
+  ```
+</details>
+
+<details>
+  <summary>Reports</summary>
+
+  #### Bug Reports
+  ```
+  https://drive.google.com/drive/folders/10EZGWRHg5Oi_9i0LL3RjjAq2TPS-3UjV?usp=drive_link
+  ```
+
+  #### Test Reports
+  ```
+  https://docs.google.com/spreadsheets/d/1fHgEp69DU0veNnfR_LgOTJ_yAOObPdvEVD-TJXLo7sg
+  ```
+</details>
+
+## Results
 <table>
   <tr>
-    <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1tnjt-eFNwCcnACCyL5IKrVPcpgUS894SXNmWGtfZau0/edit?usp=drive_link">Registration</a></td>
-    <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1lkDgCYqfnllDT2LdC_XMOteNWboe1rkl5beOUgy2MZc/edit?usp=drive_link">T145</a>, <a href="https://docs.google.com/spreadsheets/d/1zpqTnF62YplGAdZk2JSIo8QOB4R26c6775zrLgjUJ2Y/edit?usp=drive_link">T137</a></td>
-    <td><img src="https://github.com/LosKamilos91/juice-shop/assets/93448256/77bb6414-896a-4da5-b254-5af6c501a26f" width="500"></td>
+    <td><img src="https://github.com/LosKamilos91/juice-shop/assets/93448256/890f113a-02ca-4f88-9625-aebc2b6eccf2" width="500"></td>
+    <td><img src="https://github.com/LosKamilos91/juice-shop/assets/93448256/06888825-7d92-453c-876c-e0584063a487" width="500"></td>
   </tr>
-    <tr>
-    <th width="300">Test Cases</th>
-    <th width="300">Bug Reports (ID)</th>
-    <th width="500">Results</th>
+  <tr>
+    <th align="center">User Registration</th>
+    <th align="center">Customer Feedback</th>
   </tr>
 </table>
 
-#### Customer Feedback Page 
 
-<table>
-  <tr>
-    <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1ssLntCU4BneS5117uz3_XD_vYN4J18fPsGJ_5vunFu8/edit?usp=drive_link">Customer Feedback</a></td>
-    <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1bkJfhvBkJbJVJ8-cs62aAMIzKXaOfDaZiNFqYuJQQPE/edit?usp=drive_link">T153</a></td>
-    <td><img src="https://github.com/LosKamilos91/juice-shop/assets/93448256/cb470e31-2413-46d4-928d-2288a9d09e37" width="500"></td>
-  </tr>
-    <tr>
-    <th width="300">Test Cases</th>
-    <th width="300">Bug Reports (ID)</th>
-    <th width="500">Results</th>
-  </tr>
-</table>
+
+
 
