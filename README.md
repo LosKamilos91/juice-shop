@@ -18,62 +18,7 @@ https://docs.google.com/spreadsheets/d/1Sid3Mc_5O78AmyuGpgREXwUwRwnex-BF5fVa07cr
 https://docs.google.com/spreadsheets/d/13G6okOC0iPo1dRF22GSvhWaYWVq2ocVwi0OZSDSqWzg
 ```
 
-<details>
-  <summary>Test design techniques</summary>
-
-  #### RTM
-  ```
-  https://docs.google.com/spreadsheets/d/1Sid3Mc_5O78AmyuGpgREXwUwRwnex-BF5fVa07cr6Yc
-  ```
-  #### Permission Testing
-  ```
-  https://docs.google.com/spreadsheets/d/13G6okOC0iPo1dRF22GSvhWaYWVq2ocVwi0OZSDSqWzg
-  ```
-</details>
-
-<details>
-  <summary>Test Cases</summary>
-
-  #### User Registration
-  ```
-  https://docs.google.com/spreadsheets/d/1eOMcAUgbJ3SrhtMQ9HCIdAhw3L6_Cgtv1-rUfrv7mL0/edit?usp=drive_link
-  ```
-
-  #### Customer Feedback
-  ```
-  https://docs.google.com/spreadsheets/d/1Dm13UGKGai_wQ5zphfuQ6CVEpKR51qsypl0IlK_pPck/edit?usp=drive_link
-  ```
-</details>
-
-<details>
-  <summary>Test Runs</summary>
-
-  #### User Registration
-  ```
-  https://docs.google.com/spreadsheets/d/1tnjt-eFNwCcnACCyL5IKrVPcpgUS894SXNmWGtfZau0/edit?usp=drive_link
-  ```
-
-  #### Customer Feedback
-  ```
-  https://docs.google.com/spreadsheets/d/1ssLntCU4BneS5117uz3_XD_vYN4J18fPsGJ_5vunFu8/edit?usp=drive_link
-  ```
-</details>
-
-<details>
-  <summary>Reports</summary>
-
-  #### Bug Reports
-  ```
-  https://drive.google.com/drive/folders/10EZGWRHg5Oi_9i0LL3RjjAq2TPS-3UjV?usp=drive_link
-  ```
-
-  #### Test Reports
-  ```
-  https://docs.google.com/spreadsheets/d/1fHgEp69DU0veNnfR_LgOTJ_yAOObPdvEVD-TJXLo7sg
-  ```
-</details>
-
-## Results
+## Manual Testing
 <table>
   <tr>
     <td><img src="https://github.com/LosKamilos91/juice-shop/assets/93448256/890f113a-02ca-4f88-9625-aebc2b6eccf2" width="500"></td>
@@ -84,6 +29,39 @@ https://docs.google.com/spreadsheets/d/13G6okOC0iPo1dRF22GSvhWaYWVq2ocVwi0OZSDSq
     <th align="center">Customer Feedback</th>
   </tr>
 </table>
+
+### User Registration
+
+#### Test Cases
+```
+https://docs.google.com/spreadsheets/d/1eOMcAUgbJ3SrhtMQ9HCIdAhw3L6_Cgtv1-rUfrv7mL0/edit?usp=drive_link
+```
+#### Test Runs
+```
+https://docs.google.com/spreadsheets/d/1tnjt-eFNwCcnACCyL5IKrVPcpgUS894SXNmWGtfZau0/edit?usp=drive_link
+```
+
+### Customer Feedback
+
+#### Test Cases
+```
+https://docs.google.com/spreadsheets/d/1Dm13UGKGai_wQ5zphfuQ6CVEpKR51qsypl0IlK_pPck/edit?usp=drive_link
+```
+#### Test Runs
+```
+https://docs.google.com/spreadsheets/d/1ssLntCU4BneS5117uz3_XD_vYN4J18fPsGJ_5vunFu8/edit?usp=drive_link
+```
+
+## Bug Reports
+```
+https://drive.google.com/drive/folders/10EZGWRHg5Oi_9i0LL3RjjAq2TPS-3UjV?usp=drive_link
+```
+
+## Test Reports
+```
+https://docs.google.com/spreadsheets/d/1fHgEp69DU0veNnfR_LgOTJ_yAOObPdvEVD-TJXLo7sg
+```
+
 
 
 
