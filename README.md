@@ -7,16 +7,14 @@ https://demo.owasp-juice.shop/
 ```
 
 <details>
-  <summary>RTM</summary>
-  
+  <summary>Test design techniques</summary>
+
+  #### RTM
   ```
   https://docs.google.com/spreadsheets/d/1Sid3Mc_5O78AmyuGpgREXwUwRwnex-BF5fVa07cr6Yc
   ```
-</details>
 
-<details>
-  <summary>Permission Testing</summary>
-  
+  #### Permission Testing
   ```
   https://docs.google.com/spreadsheets/d/13G6okOC0iPo1dRF22GSvhWaYWVq2ocVwi0OZSDSqWzg
   ```
