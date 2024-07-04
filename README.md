@@ -26,7 +26,7 @@ https://docs.google.com/spreadsheets/d/1fHgEp69DU0veNnfR_LgOTJ_yAOObPdvEVD-TJXLo
 <table>
   <tr>
     <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1tnjt-eFNwCcnACCyL5IKrVPcpgUS894SXNmWGtfZau0/edit?usp=drive_link">Registration</a></td>
-    <td><p align="center"><a href="">...</a></td>
+    <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1lkDgCYqfnllDT2LdC_XMOteNWboe1rkl5beOUgy2MZc/edit?usp=drive_link">T145</a>, <a href="https://docs.google.com/spreadsheets/d/1zpqTnF62YplGAdZk2JSIo8QOB4R26c6775zrLgjUJ2Y/edit?usp=drive_link">T137</a></td>
     <td><img src="https://github.com/LosKamilos91/juice-shop/assets/93448256/77bb6414-896a-4da5-b254-5af6c501a26f" width="500"></td>
   </tr>
     <tr>
@@ -41,7 +41,7 @@ https://docs.google.com/spreadsheets/d/1fHgEp69DU0veNnfR_LgOTJ_yAOObPdvEVD-TJXLo
 <table>
   <tr>
     <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1ssLntCU4BneS5117uz3_XD_vYN4J18fPsGJ_5vunFu8/edit?usp=drive_link">Customer Feedback</a></td>
-    <td><p align="center"><a href="">...</a></td>
+    <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1bkJfhvBkJbJVJ8-cs62aAMIzKXaOfDaZiNFqYuJQQPE/edit?usp=drive_link">T153</a></td>
     <td><img src="https://github.com/LosKamilos91/juice-shop/assets/93448256/cb470e31-2413-46d4-928d-2288a9d09e37" width="500"></td>
   </tr>
     <tr>
