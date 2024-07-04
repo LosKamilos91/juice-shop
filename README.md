@@ -6,6 +6,18 @@ A demo site for testing purposes where we have the opportunity to test the onlin
 https://demo.owasp-juice.shop/
 ```
 
+## Test Design Techniques
+
+#### RTM
+```
+https://docs.google.com/spreadsheets/d/1Sid3Mc_5O78AmyuGpgREXwUwRwnex-BF5fVa07cr6Yc
+```
+
+#### Permission Testing
+```
+https://docs.google.com/spreadsheets/d/13G6okOC0iPo1dRF22GSvhWaYWVq2ocVwi0OZSDSqWzg
+```
+
 <details>
   <summary>Test design techniques</summary>
 
@@ -13,7 +25,6 @@ https://demo.owasp-juice.shop/
   ```
   https://docs.google.com/spreadsheets/d/1Sid3Mc_5O78AmyuGpgREXwUwRwnex-BF5fVa07cr6Yc
   ```
-
   #### Permission Testing
   ```
   https://docs.google.com/spreadsheets/d/13G6okOC0iPo1dRF22GSvhWaYWVq2ocVwi0OZSDSqWzg
